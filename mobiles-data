@@ -1,6 +1,6 @@
 [
   {
-    "id": "MDK-2001",
+    "id": "MDK-3001",
     "name": "Samsung Galaxy S23",
     "brand": "Samsung",
     "price": 899.99,
@@ -15,7 +15,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Samsung_Galaxy_S23.png"
   },
   {
-    "id": "MDK-2002",
+    "id": "MDK-3002",
     "name": "iPhone 14",
     "brand": "Apple",
     "price": 999.00,
@@ -30,7 +30,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/IPhone_14_Pro.png"
   },
   {
-    "id": "MDK-2003",
+    "id": "MDK-3003",
     "name": "Xiaomi Redmi Note 12",
     "brand": "Xiaomi",
     "price": 199.99,
@@ -45,7 +45,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Redmi_Note_12.png"
   },
   {
-    "id": "MDK-2004",
+    "id": "MDK-3004",
     "name": "Realme C55",
     "brand": "Realme",
     "price": 169.99,
@@ -60,7 +60,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Realme_C55.png"
   },
   {
-    "id": "MDK-2005",
+    "id": "MDK-3005",
     "name": "Infinix Zero 30",
     "brand": "Infinix",
     "price": 249.99,
@@ -73,5 +73,110 @@
     "warranty": "1 Year Brand Warranty",
     "rating": 4.5,
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Infinix_Zero_30.png"
+  },
+  {
+    "id": "MDK-3006",
+    "name": "Samsung Galaxy A54",
+    "brand": "Samsung",
+    "price": 349.99,
+    "currency": "USD",
+    "storage": "128GB",
+    "ram": "8GB",
+    "color": "Awesome Lime",
+    "condition": "New",
+    "stock": 20,
+    "warranty": "1 Year Official Warranty",
+    "rating": 4.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Samsung_Galaxy_A54.png"
+  },
+  {
+    "id": "MDK-3007",
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "price": 799.00,
+    "currency": "USD",
+    "storage": "128GB",
+    "ram": "4GB",
+    "color": "Blue",
+    "condition": "New",
+    "stock": 11,
+    "warranty": "1 Year Apple Warranty",
+    "rating": 4.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/IPhone_13.png"
+  },
+  {
+    "id": "MDK-3008",
+    "name": "Vivo Y20",
+    "brand": "Vivo",
+    "price": 159.99,
+    "currency": "USD",
+    "storage": "64GB",
+    "ram": "4GB",
+    "color": "Nebula Blue",
+    "condition": "New",
+    "stock": 35,
+    "warranty": "1 Year Brand Warranty",
+    "rating": 4.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Vivo_Y20.png"
+  },
+  {
+    "id": "MDK-3009",
+    "name": "Oppo A17",
+    "brand": "Oppo",
+    "price": 179.99,
+    "currency": "USD",
+    "storage": "64GB",
+    "ram": "4GB",
+    "color": "Midnight Black",
+    "condition": "New",
+    "stock": 27,
+    "warranty": "1 Year Brand Warranty",
+    "rating": 4.1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Oppo_A17.png"
+  },
+  {
+    "id": "MDK-3010",
+    "name": "Tecno Spark 10",
+    "brand": "Tecno",
+    "price": 149.99,
+    "currency": "USD",
+    "storage": "128GB",
+    "ram": "8GB",
+    "color": "Meta Black",
+    "condition": "New",
+    "stock": 40,
+    "warranty": "1 Year Brand Warranty",
+    "rating": 4.3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tecno_Spark_10.png"
+  },
+  {
+    "id": "MDK-3011",
+    "name": "Samsung Galaxy M14",
+    "brand": "Samsung",
+    "price": 189.99,
+    "currency": "USD",
+    "storage": "128GB",
+    "ram": "6GB",
+    "color": "Berry Blue",
+    "condition": "New",
+    "stock": 33,
+    "warranty": "1 Year Official Warranty",
+    "rating": 4.4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Samsung_Galaxy_M14.png"
+  },
+  {
+    "id": "MDK-3012",
+    "name": "Xiaomi Poco X5",
+    "brand": "Xiaomi",
+    "price": 279.99,
+    "currency": "USD",
+    "storage": "256GB",
+    "ram": "8GB",
+    "color": "Green",
+    "condition": "New",
+    "stock": 19,
+    "warranty": "1 Year Brand Warranty",
+    "rating": 4.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Poco_X5.png"
   }
 ]
